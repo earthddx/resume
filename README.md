@@ -43,25 +43,25 @@ Developed various web applications using MS Visual Studio
 
 		PROJECTS
 
-·	Weather application | JavaScript • Node.js • DarkSkyAPI
+##	Weather application | JavaScript • Node.js • DarkSkyAPI
 
 live project : https://earthddx-weather-app.glitch.me/
 
 source code: https://glitch.com/edit/#!/earthddx-weather-app?path=public/app.js:1:0
 
-·	Photo gallery | JavaScript • GSAP 
+##	Photo gallery | JavaScript • GSAP 
 
 live project: https://earthddx.github.io/ManUtd/
 
 source code: https://github.com/earthddx/ManUtd
 
-·	Plant Store | React • React Context API • Material-UI
+##	Plant Store | React • React Context API • Material-UI
 
 live project: https://inspiring-visvesvaraya-2df3d4.netlify.app/
 
 source code: https://github.com/earthddx/PLANTiful-React
 
-·	Music Share App | React • GraphQL• Apollo Server • Material-UI 
+##	Music Share App | React • GraphQL• Apollo Server • Material-UI 
 
 live project: https://confident-bhabha-15737c.netlify.com/
 
