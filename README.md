@@ -60,35 +60,53 @@ source code: https://github.com/earthddx/ManUtd
 live project: https://inspiring-visvesvaraya-2df3d4.netlify.app/
 
 source code: https://github.com/earthddx/PLANTiful-React
+
 ·	Music Share App | React • GraphQL• Apollo Server • Material-UI 
+
 live project: https://confident-bhabha-15737c.netlify.com/
+
 source code: front end: https://github.com/earthddx/MusicShare
+
 			    back end: https://apollo-react-music.herokuapp.com/console/api-explorer
+			    
 
 PROFESSIONAL EXPERIENCE
 
 Computer Information Center, The Baikonur Cosmodrome, Russia 						   09/2013 to 09/ 2014 
+
 Computer Engineer Intern															
 ·	Observed and documented system and component performance.
+
 ·	Wrote and compiled user manuals for completed systems.
+
 ·	Installed, maintained and later performed troubleshooting for the networks.
-·	Analyzed the network on a regular basis and resolved problems when they occurred.	
+
+·	Analyzed the network on a regular basis and resolved problems when they occurred.
+
 
 
 EDUCATION 
 
 ·	Moscow Aviation Institute (branch “Voskhod”), Baikonur, Russia 					    09/2009 to 07/2014
+
 Bachelor of Applied Mathematics    
+
 ·	Tidewater Community College, Virginia Beach, Virginia 								    01/2015 to 12/2018
+
 Computer Science		                                   
 	   
 
 REFERENCES
 
-·	Vitaly Denisov, Software engineer at Yandex.Market, Moscow, Russia. 
+·	Vitaly Denisov, Software engineer at Yandex.Market, Moscow, Russia.
+
 Email: klovkrol@yandex.ru. Phone: +7 (919) 934-8847
+
 ·	Nikita Yelansky, Computer engineer at GETCRM, Moscow, Russia. 
+
 Email: nelanskiy@getcrm.ru. Phone: +7 (985) 360-7220
+
 ·	Chingis Yelmagambetov, CEO at Vertigo Esports, Nursultan, Kazakhstan. 
+
 Email: chen.staq@gmail.com. Phone: +7 (707) 861-3169
 
