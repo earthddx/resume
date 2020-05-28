@@ -10,7 +10,7 @@ GitHub: https://github.com/earthddx
 
 LinkedIn: https://www.linkedin.com/in/artem-murzo-660258b7
 
-Website: https://earthddx.github.io
+Website: https://artemmurzo.netlify.app/
 
 E-mail: murzotom@rocketmail.com 
 
@@ -49,17 +49,20 @@ live project : https://earthddx-weather-app.glitch.me/
 
 source code: https://glitch.com/edit/#!/earthddx-weather-app?path=public/app.js:1:0
 
-##	Photo gallery | JavaScript • GSAP 
 
-live project: https://earthddx.github.io/ManUtd/
+##	Chat Application | React • Express • Node.js • Socket.io • Material-UI
 
-source code: https://github.com/earthddx/ManUtd
+live project: https://thirsty-darwin-7fff8e.netlify.app/
+
+source code: https://github.com/earthddx/ChatReactClient
+
 
 ##	Plant Store | React • React Context API • Material-UI
 
 live project: https://inspiring-visvesvaraya-2df3d4.netlify.app/
 
 source code: https://github.com/earthddx/PLANTiful-React
+
 
 ##	Music Share App | React • GraphQL• Apollo Server • Material-UI 
 
