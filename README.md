@@ -3,8 +3,7 @@
 
 							925 E Piney Branch Dr, apt. 204 	
 							    Virginia Beach, VA  23451   	 
-
-								CONTACTS
+								
 
 GitHub: https://github.com/earthddx
 
