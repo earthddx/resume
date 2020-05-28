@@ -1,15 +1,21 @@
 # Resume
-ARTEM MURZO
+		ARTEM MURZO
+
 	925 E Piney Branch Dr, apt. 204 	
 	    Virginia Beach, VA  23451   	 
 
 CONTACTS
 
 GitHub: https://github.com/earthddx
+
 LinkedIn: https://www.linkedin.com/in/artem-murzo-660258b7
+
 Website: https://earthddx.github.io
+
 E-mail: murzotom@rocketmail.com 
+
 Phone: +1-757-663-1175
+
 Skype: artem.murzo
 
 
@@ -21,24 +27,38 @@ Detail-oriented and self-motivated. Willing to learn new skills. Problem solver,
 SKILLS 
 
 • HTML
+
 • CSS • SCSS 
+
 • C++ • JavaScript • jQuery • React
+
 • GraphQL • Apollo Server
+
 Experience with MongoDB, GIT version control system and Github
+
 Familiarity with Node.js and Redux
+
 Developed various web applications using MS Visual Studio
 
 
 PROJECTS
 
 ·	Weather application | JavaScript • Node.js • DarkSkyAPI
+
 live project : https://earthddx-weather-app.glitch.me/
+
 source code: https://glitch.com/edit/#!/earthddx-weather-app?path=public/app.js:1:0
+
 ·	Photo gallery | JavaScript • GSAP 
+
 live project: https://earthddx.github.io/ManUtd/
+
 source code: https://github.com/earthddx/ManUtd
+
 ·	Plant Store | React • React Context API • Material-UI
+
 live project: https://inspiring-visvesvaraya-2df3d4.netlify.app/
+
 source code: https://github.com/earthddx/PLANTiful-React
 ·	Music Share App | React • GraphQL• Apollo Server • Material-UI 
 live project: https://confident-bhabha-15737c.netlify.com/
