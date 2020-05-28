@@ -4,7 +4,7 @@
 	925 E Piney Branch Dr, apt. 204 	
 	    Virginia Beach, VA  23451   	 
 
-CONTACTS
+		CONTACTS
 
 GitHub: https://github.com/earthddx
 
@@ -19,12 +19,12 @@ Phone: +1-757-663-1175
 Skype: artem.murzo
 
 
-SUMMARY 
+		SUMMARY 
 
 Detail-oriented and self-motivated. Willing to learn new skills. Problem solver, easy to work with. Excellent written and oral communication skills; capable of explaining complex software issues in easy-to-understand terms.
  
 
-SKILLS 
+		SKILLS 
 
 • HTML
 
@@ -41,7 +41,7 @@ Familiarity with Node.js and Redux
 Developed various web applications using MS Visual Studio
 
 
-PROJECTS
+		PROJECTS
 
 ·	Weather application | JavaScript • Node.js • DarkSkyAPI
 
@@ -67,10 +67,10 @@ live project: https://confident-bhabha-15737c.netlify.com/
 
 source code: front end: https://github.com/earthddx/MusicShare
 
-			    back end: https://apollo-react-music.herokuapp.com/console/api-explorer
+back end: https://apollo-react-music.herokuapp.com/console/api-explorer
 			    
 
-PROFESSIONAL EXPERIENCE
+		PROFESSIONAL EXPERIENCE
 
 Computer Information Center, The Baikonur Cosmodrome, Russia 						   09/2013 to 09/ 2014 
 
@@ -85,7 +85,7 @@ Computer Engineer Intern
 
 
 
-EDUCATION 
+		EDUCATION 
 
 ·	Moscow Aviation Institute (branch “Voskhod”), Baikonur, Russia 					    09/2009 to 07/2014
 
@@ -96,7 +96,7 @@ Bachelor of Applied Mathematics
 Computer Science		                                   
 	   
 
-REFERENCES
+		REFERENCES
 
 ·	Vitaly Denisov, Software engineer at Yandex.Market, Moscow, Russia.
 
