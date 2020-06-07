@@ -121,7 +121,9 @@ Email: chen.staq@gmail.com. Phone: +7 (707) 861-3169
 								ADDITIONAL INFO
 
 Languages:
+
 ·	Russian, native
+
 ·	English, fluent
 
 I am a permanent resident and willing to relocate to your area.
