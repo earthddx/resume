@@ -29,7 +29,11 @@ Detail-oriented and self-motivated. Willing to learn new skills. Problem solver,
 
 • CSS • SCSS 
 
-• C++ • JavaScript • jQuery • React
+• Different UI frameworks such as Material-UI and Semantic UI
+
+• C++ 
+
+• JavaScript • jQuery • React
 
 • GraphQL • Apollo Server
 
@@ -42,11 +46,11 @@ Developed various web applications using MS Visual Studio
 
 								PROJECTS
 
-##	Weather application | JavaScript • Node.js • DarkSkyAPI
+##	Weather Progressive Web Application | React • Material-UI • OpenWeatherAPI
 
-live project : https://earthddx-weather-app.glitch.me/
+live project : https://silly-heyrovsky-466abc.netlify.app/
 
-source code: https://glitch.com/edit/#!/earthddx-weather-app?path=public/app.js:1:0
+source code: https://github.com/earthddx/WeatherAppReact
 
 
 ##	Chat Application | React • Express • Node.js • Socket.io • Material-UI
@@ -111,4 +115,15 @@ Email: nelanskiy@getcrm.ru. Phone: +7 (985) 360-7220
 ·	Chingis Yelmagambetov, CEO at Vertigo Esports, Nursultan, Kazakhstan. 
 
 Email: chen.staq@gmail.com. Phone: +7 (707) 861-3169
+
+
+
+								ADDITIONAL INFO
+
+Languages:
+·	Russian, native
+·	English, fluent
+
+I am a permanent resident and willing to relocate to your area.
+
 
