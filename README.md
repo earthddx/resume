@@ -100,32 +100,6 @@ Bachelor of Applied Mathematics
 ·	Tidewater Community College, Virginia Beach, Virginia 								    01/2015 to 12/2018
 
 Computer Science		                                   
-	   
 
-							REFERENCES
-
-·	Vitaly Denisov, Software engineer at Yandex.Market, Moscow, Russia.
-
-Email: klovkrol@yandex.ru. Phone: +7 (919) 934-8847
-
-·	Nikita Yelansky, Computer engineer at GETCRM, Moscow, Russia. 
-
-Email: nelanskiy@getcrm.ru. Phone: +7 (985) 360-7220
-
-·	Chingis Yelmagambetov, CEO at Vertigo Esports, Nursultan, Kazakhstan. 
-
-Email: chen.staq@gmail.com. Phone: +7 (707) 861-3169
-
-
-
-							ADDITIONAL INFO
-
-Languages:
-
-·	Russian, native
-
-·	English, fluent
-
-I am a permanent resident and willing to relocate to your area.
 
 
