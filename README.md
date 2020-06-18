@@ -1,8 +1,7 @@
 # Resume
 							ARTEM MURZO
-
-						925 E Piney Branch Dr, apt. 204 	
-						    Virginia Beach, VA  23451   	 
+	
+						   Virginia Beach, VA  23451   	 
 								
 
 GitHub: https://github.com/earthddx
@@ -13,9 +12,7 @@ Website: https://artemmurzo.netlify.app/
 
 E-mail: murzotom@rocketmail.com 
 
-Phone: +1-757-663-1175
 
-Skype: artem.murzo
 
 
 							SUMMARY 
@@ -31,15 +28,13 @@ Detail-oriented and self-motivated. Willing to learn new skills. Problem solver,
 
 • Different UI frameworks such as Material-UI and Semantic UI
 
-• C++ 
-
 • JavaScript • jQuery • React
 
 • GraphQL • Apollo Server
 
 Experience with MongoDB, GIT version control system and Github
 
-Familiarity with Node.js and Redux
+Familiarity with Node.js
 
 Developed various web applications using MS Visual Studio
 
@@ -48,28 +43,28 @@ Developed various web applications using MS Visual Studio
 
 ##	Weather Progressive Web Application | React • Material-UI • OpenWeatherAPI
 
-live project : https://silly-heyrovsky-466abc.netlify.app/
+live project : https://silly-heyrovsky-466abc.netlify.app
 
 source code: https://github.com/earthddx/WeatherAppReact
 
 
 ##	Chat Application | React • Express • Node.js • Socket.io • Material-UI
 
-live project: https://thirsty-darwin-7fff8e.netlify.app/
+live project: https://thirsty-darwin-7fff8e.netlify.app
 
 source code: https://github.com/earthddx/ChatReactClient
 
 
 ##	Plant Store | React • React Context API • Material-UI
 
-live project: https://inspiring-visvesvaraya-2df3d4.netlify.app/
+live project: https://inspiring-visvesvaraya-2df3d4.netlify.app
 
 source code: https://github.com/earthddx/PLANTiful-React
 
 
 ##	Music Share App | React • GraphQL• Apollo Server • Material-UI 
 
-live project: https://confident-bhabha-15737c.netlify.com/
+live project: https://confident-bhabha-15737c.netlify.com
 
 source code: front end: https://github.com/earthddx/MusicShare
 
