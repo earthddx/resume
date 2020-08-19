@@ -82,7 +82,7 @@ back end: https://apollo-react-music.herokuapp.com/console/api-explorer
 
 Computer Information Center, The Baikonur Cosmodrome, Russia 						   09/2013 to 11/ 2014 
 
-Computer Engineer
+## Computer Engineer
 
 ·	Coded new and modified existing applications (e.g. rocket telemetry computations) using C++ and Delphi IDE. Was also engaged with diploma project. 
 
