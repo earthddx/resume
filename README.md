@@ -17,26 +17,33 @@ E-mail: murzotom@rocketmail.com
 
 							SUMMARY 
 
-Detail-oriented and self-motivated. Willing to learn new skills. Problem solver, easy to work with. Excellent written and oral communication skills; capable of explaining complex software issues in easy-to-understand terms.
+Goal-oriented Web Developer offering enthusiasm and understanding of various programming languages and frameworks. Looking to join a team where opportunity for growth and professional development is embraced. 
  
 
 							SKILLS 
 
-• HTML
+•	HTML
 
-• CSS • SCSS 
+•	CSS, SCSS 
 
-• Different UI frameworks such as Material-UI and Semantic UI
+•	Different UI frameworks such as Material-UI and Semantic UI
 
-• JavaScript • jQuery • React
+•	JavaScript
 
-• GraphQL • Apollo Server
+•	jQuery
 
-Experience with MongoDB, GIT version control system and Github
+•	React.js, React Context API, React Redux
 
-Familiarity with Node.js
+•	GraphQL (Hasura)
 
-Developed various web applications using MS Visual Studio
+•	Apollo Server
+
+•	Experience with C++, MongoDB, Firebase, Express.js and Node.js 
+
+•	GIT version control system and GitHub
+
+•	Developed various web applications using Visual Studio Code 
+
 
 
 							PROJECTS
@@ -73,9 +80,11 @@ back end: https://apollo-react-music.herokuapp.com/console/api-explorer
 
 						PROFESSIONAL EXPERIENCE
 
-Computer Information Center, The Baikonur Cosmodrome, Russia 						   09/2013 to 09/ 2014 
+Computer Information Center, The Baikonur Cosmodrome, Russia 						   09/2013 to 11/ 2014 
 
-Computer Engineer Intern															
+Computer Engineer
+·	Coded new and modified existing applications (e.g. rocket telemetry computations) using C++ and Delphi IDE. Was also engaged with diploma project. 
+
 ·	Observed and documented system and component performance.
 
 ·	Wrote and compiled user manuals for completed systems.
